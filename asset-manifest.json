@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/spacex-test/static/css/main.77fade8f.chunk.css",
+    "main.js": "/spacex-test/static/js/main.6e5e0db0.chunk.js",
+    "main.js.map": "/spacex-test/static/js/main.6e5e0db0.chunk.js.map",
+    "runtime-main.js": "/spacex-test/static/js/runtime-main.bf619acd.js",
+    "runtime-main.js.map": "/spacex-test/static/js/runtime-main.bf619acd.js.map",
+    "static/js/2.70d6450b.chunk.js": "/spacex-test/static/js/2.70d6450b.chunk.js",
+    "static/js/2.70d6450b.chunk.js.map": "/spacex-test/static/js/2.70d6450b.chunk.js.map",
+    "index.html": "/spacex-test/index.html",
+    "static/css/main.77fade8f.chunk.css.map": "/spacex-test/static/css/main.77fade8f.chunk.css.map",
+    "static/js/2.70d6450b.chunk.js.LICENSE.txt": "/spacex-test/static/js/2.70d6450b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/spacex-test/static/media/MuseoSansCyrl700.d44c59f0.woff",
+    "static/media/App.css": "/spacex-test/static/media/background.85f20176.png",
+    "static/media/Header.css": "/spacex-test/static/media/burger-menu-button.111cfc3a.svg",
+    "static/media/BurgerMenu.css": "/spacex-test/static/media/close-btn-icon.128b4b07.svg",
+    "static/media/line.7a4e8b33.png": "/spacex-test/static/media/line.7a4e8b33.png",
+    "static/media/spacex-logo.d301c25b.svg": "/spacex-test/static/media/spacex-logo.d301c25b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf619acd.js",
+    "static/js/2.70d6450b.chunk.js",
+    "static/css/main.77fade8f.chunk.css",
+    "static/js/main.6e5e0db0.chunk.js"
+  ]
+}
