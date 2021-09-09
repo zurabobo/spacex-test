@@ -13,3 +13,10 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
 }
+
+
+@media screen and (max-width: 767px) {
+  .page{
+    background-size: cover;
+  }
+}
